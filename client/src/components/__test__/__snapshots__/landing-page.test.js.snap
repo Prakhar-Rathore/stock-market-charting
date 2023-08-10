@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="MuiBox-root css-epu1x7"
+>
+  <div
+    className="MuiBox-root css-i9gxme"
+  >
+    <header
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorTransparent MuiAppBar-positionStatic css-7u3q09-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+          style={
+            Object {
+              "marginBottom": "10px",
+              "marginTop": "10px",
+            }
+          }
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 css-1o7apob-MuiGrid-root"
+            style={
+              Object {
+                "alignSelf": "center",
+              }
+            }
+          >
+            <a
+              href="/"
+              onClick={[Function]}
+              style={
+                Object {
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <div
+                className="MuiAvatar-root MuiAvatar-circular css-1mkrmcx-MuiAvatar-root"
+              >
+                <img
+                  alt="logo"
+                  className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+                  src="https://cdn2.vectorstock.com/i/1000x1000/67/86/mobile-stock-market-business-logo-icon-design-vector-22926786.jpg"
+                />
+              </div>
+            </a>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 css-1mu4nik-MuiGrid-root"
+          >
+            <a
+              href="/login"
+              onClick={[Function]}
+              style={
+                Object {
+                  "color": "white",
+                  "marginLeft": "20px",
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <button
+                className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1o011v7-MuiButtonBase-root-MuiButton-root"
+                disabled={false}
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                style={
+                  Object {
+                    "background": "linear-gradient( 111.6deg, rgba(174,68,223,1) 27.3%, rgba(246,135,135,1) 112.7% )",
+                    "borderRadius": "15px",
+                    "fontSize": "18px",
+                    "minWidth": "15%",
+                    "padding": "15px",
+                  }
+                }
+                tabIndex={0}
+                type="button"
+              >
+                Login
+              </button>
+            </a>
+            <a
+              href="/sign-up"
+              onClick={[Function]}
+              style={
+                Object {
+                  "color": "white",
+                  "marginLeft": "20px",
+                  "textDecoration": "none",
+                }
+              }
+            >
+              <button
+                className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1o011v7-MuiButtonBase-root-MuiButton-root"
+                disabled={false}
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                style={
+                  Object {
+                    "background": "linear-gradient( 111.6deg, rgba(174,68,223,1) 27.3%, rgba(246,135,135,1) 112.7% )",
+                    "borderRadius": "15px",
+                    "fontSize": "18px",
+                    "minWidth": "15%",
+                    "padding": "15px",
+                  }
+                }
+                tabIndex={0}
+                type="button"
+              >
+                Sign Up
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+  <div
+    className="MuiBox-root css-r1ttbq"
+    style={
+      Object {
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container css-1jtor0c-MuiGrid-root"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-13rd764-MuiGrid-root"
+      >
+        <img
+          alt="bgImage"
+          src="background.png"
+          style={
+            Object {
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7 css-1a4ufwv-MuiGrid-root"
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1s5jmr8-MuiPaper-root"
+        >
+          <h1
+            className="MuiTypography-root MuiTypography-h2 MuiTypography-alignLeft css-1ge8fv-MuiTypography-root"
+          >
+            WELCOME TO
+          </h1>
+          <h1
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-lpoh8-MuiTypography-root"
+          >
+            STOCK MARKET CHARTING
+          </h1>
+          <h4
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-lpoh8-MuiTypography-root"
+          >
+            <br />
+            All the tools you need to make wise investment decisions.
+          </h4>
+          <h4
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-lpoh8-MuiTypography-root"
+          >
+            Join smart investors now.
+          </h4>
+          <h4
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft css-lpoh8-MuiTypography-root"
+          >
+            Login or Sign Up to access further details.
+          </h4>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-md-5 css-15xbg4w-MuiGrid-root"
+      >
+        <img
+          alt="bgImage"
+          src="background.png"
+          style={
+            Object {
+              "borderRadius": "8px",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

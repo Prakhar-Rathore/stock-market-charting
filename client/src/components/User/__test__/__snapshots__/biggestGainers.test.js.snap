@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    className="MuiBox-root css-12pbg1u"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-spacing-md-1 MuiGrid-spacing-lg-2 css-7gy31f-MuiGrid-root"
+    >
+      <div
+        className="MuiTableContainer-root css-rorn0c-MuiTableContainer-root"
+        style={
+          Object {
+            "height": 400,
+            "width": 600,
+          }
+        }
+      >
+        <table
+          className="MuiTable-root css-rq4m1a-MuiTable-root"
+          role={null}
+          style={
+            Object {
+              "border": "1px solid #000",
+              "borderBottom": "1px solid #000",
+            }
+          }
+        >
+          <thead
+            className="MuiTableHead-root css-5uv86a-MuiTableHead-root"
+            role={null}
+          >
+            <tr
+              className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+              role={null}
+            >
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ndpvdd-MuiTableCell-root"
+                scope="col"
+              >
+                 Name 
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ndpvdd-MuiTableCell-root"
+                scope="col"
+              >
+                 Change 
+              </th>
+              <th
+                aria-sort={null}
+                className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ndpvdd-MuiTableCell-root"
+                scope="col"
+              >
+                 Sector 
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+            role={null}
+          />
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
